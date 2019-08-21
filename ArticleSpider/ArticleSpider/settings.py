@@ -79,6 +79,14 @@ project_dir = os.path.abspath(os.path.dirname(__file__))
 IMAGES_URLS_FIELD = "front_image_url"
 IMAGES_STORE = os.path.join(project_dir, "images")
 
+
+MYSQL_HOST = '192.168.17.199'
+MYSQL_DBNAME = 'spider'
+MYSQL_USER = 'root'
+MYSQL_PASSWD = ''
+
+DOWNLOAD_DELAY = 1
+
 # IMAGES_MIN_HEIGHT = 100
 # IMAGES_MIN_WIDTH = 100
 

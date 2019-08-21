@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51b9dbf4-48de-44ba-8853-6dd1d952bfab" name="Default Changelist" comment="" />
+    <list default="true" id="51b9dbf4-48de-44ba-8853-6dd1d952bfab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/00c6b94a056b214f1ed9f99bf2e3a0e477e915db.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/04a0b00a4ba30bfcf501cca0df08596c9d1bccb5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/16343ff271cfa8a4113c7c1152a4600f5da35b59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/204935f9f67bfdc1d7f7c4f5854e7110759fe260.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/35f8fcc9dc75f4e4873314c9aa4dd98e5024e553.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/3a09cfd87c8e46b695add86698ba584d8bf2360e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/4b6ff79555987aeba4f2cbf64b3e2373dcf1a199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/580b97f3a410a85fa4817836ec21f6ce733ebad3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/62b5f9af8adda2582cafae236fc8d8526b02e955.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/73055a14d3c21e53ccbbd7f6d1dc56c9b62cb26c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/7d17dd298cee7eb115ba4f1cc99dab9052a6ab68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/8a30fb08e9237b79d5eb65912564d6bc913eae22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/8e0300c115bc82b5e1f69918ed6119de67914ce7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/8e70d24fcb9039da99271740b378f32b732a36b5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/93593443bc8e71fb2443c91937754f5882e4c56c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/a2a4cbbe12871f333cba809b0d927ffcc05df41b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/a7a9af8fe4a3017bfaf913e87e1bdb7ef52b909c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/aa31d6c47fa99b5aeb69e30eb12b4bed23760f65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/ae254887e109fd1623b2f0a1efde01d66c1911ee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/b9ff9fdde0edfe036a3a0bcbabbd91072138f206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/c573a284fda65cd82157dab793f31f2c30e192fb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/c7ac20c3f69896cbc15f94bfafff5119dd6647c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/ca8bebf3617920cf074df4c3cf477a043591c15c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/cc139562da59bc4f77f3fa0aec6af96b2b7780f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/efa9d28cae7329291bae990e837d2d4ccf394674.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArticleSpider/images/full/f1f6eba0b690084c3f96c0bc4fa5618fe583bb84.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +48,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1P0SYk6o8iJF6o2MtVfbvYGdzn9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/.virtualenvs/ArticleSpider" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -142,6 +179,20 @@
       <updated>1564585430244</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
