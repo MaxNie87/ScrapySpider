@@ -71,7 +71,8 @@ import os
 ITEM_PIPELINES = {
     'ArticleSpider.pipelines.ArticlespiderPipeline': 300,
     'scrapy.pipelines.images.ImagesPipeline': 1,
-    'ArticleSpider.pipelines.MysqlPipeline': 2,
+    # 'ArticleSpider.pipelines.MysqlPipeline': 2,
+    'ArticleSpider.pipelines.MysqlTwisted': 3,
 }
 
 # Download image file
