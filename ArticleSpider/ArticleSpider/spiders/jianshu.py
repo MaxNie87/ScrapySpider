@@ -4,6 +4,8 @@ from urllib import parse
 from scrapy.http import Request
 from ArticleSpider.items import JianShuArticlespiderItem
 from ArticleSpider.utils.common import get_md5
+from scrapy.loader import ItemLoader
+from ArticleSpider.items import ArticleItemLoader
 
 
 class JianshuSpider(scrapy.Spider):
@@ -32,13 +34,19 @@ class JianshuSpider(scrapy.Spider):
 
     def parse_detail(self, response):
         front_end_url = response.meta["front_end_url"]
-        title = response.xpath("//div[@class='post']/div[@class='article']/h1[@class='title']/text()").extract()[0]
-        print(title)
-        print(get_md5(response.url))
-        jianshu_item = JianShuArticlespiderItem()
+        # title = response.xpath("//div[@class='post']/div[@class='article']/h1[@class='title']/text()").extract()[0]
+        # print(title)
+        # print(get_md5(response.url))
+        # jianshu_item = JianShuArticlespiderItem()
+        #
+        # jianshu_item["url"] = response.url
+        # jianshu_item["title"] = title
+        # jianshu_item['front_image_url'] = [front_end_url]
 
-        jianshu_item["url"] = response.url
-        jianshu_item["title"] = title
-        jianshu_item['front_image_url'] = [front_end_url]
+        item = ArticleItemLoader(item=JianShuArticlespiderItem(), response=response)
+        item.add_xpath("title", "//div[@class='post']/div[@class='article']/h1[@class='title']/text()")
+        item.add_value("url", response.url)
+        item.add_value("front_image_url", [front_end_url])
+        jianshu = item.load_item()
 
-        yield jianshu_item
+        yield jianshu

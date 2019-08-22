@@ -2,9 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51b9dbf4-48de-44ba-8853-6dd1d952bfab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArticleSpider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/00c6b94a056b214f1ed9f99bf2e3a0e477e915db.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/00c6b94a056b214f1ed9f99bf2e3a0e477e915db.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/04a0b00a4ba30bfcf501cca0df08596c9d1bccb5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/04a0b00a4ba30bfcf501cca0df08596c9d1bccb5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/0894f1112415b094068de64694a402bf78d78335.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/0894f1112415b094068de64694a402bf78d78335.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/0ec3ad379b7622fa1abc4e62e7309b06303476ec.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/0ec3ad379b7622fa1abc4e62e7309b06303476ec.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/16343ff271cfa8a4113c7c1152a4600f5da35b59.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/16343ff271cfa8a4113c7c1152a4600f5da35b59.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/204935f9f67bfdc1d7f7c4f5854e7110759fe260.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/204935f9f67bfdc1d7f7c4f5854e7110759fe260.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/35f8fcc9dc75f4e4873314c9aa4dd98e5024e553.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/35f8fcc9dc75f4e4873314c9aa4dd98e5024e553.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/380fc7b16abdb3527568273eff63e413003091d8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/380fc7b16abdb3527568273eff63e413003091d8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/3a09cfd87c8e46b695add86698ba584d8bf2360e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/3a09cfd87c8e46b695add86698ba584d8bf2360e.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/420a492e7f85ff812af61113246b849fe7f06562.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/420a492e7f85ff812af61113246b849fe7f06562.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/4412adb7871fea879e20078944baad98cff00858.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/4412adb7871fea879e20078944baad98cff00858.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/45eaff748ad2df4b7772863afcde37ce796ae366.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/45eaff748ad2df4b7772863afcde37ce796ae366.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/4b6ff79555987aeba4f2cbf64b3e2373dcf1a199.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/4b6ff79555987aeba4f2cbf64b3e2373dcf1a199.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/519504a11f92d5df10b4328b4ef7f66b5f7ff8e5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/519504a11f92d5df10b4328b4ef7f66b5f7ff8e5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/580b97f3a410a85fa4817836ec21f6ce733ebad3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/580b97f3a410a85fa4817836ec21f6ce733ebad3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/5be773a65d0f174cca7c1fc426df54af264b203a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/5be773a65d0f174cca7c1fc426df54af264b203a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/62b5f9af8adda2582cafae236fc8d8526b02e955.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/62b5f9af8adda2582cafae236fc8d8526b02e955.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/6b66b61fdce46fb81d8b48133cc6a8822964be1e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/6b66b61fdce46fb81d8b48133cc6a8822964be1e.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/73055a14d3c21e53ccbbd7f6d1dc56c9b62cb26c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/73055a14d3c21e53ccbbd7f6d1dc56c9b62cb26c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/7d17dd298cee7eb115ba4f1cc99dab9052a6ab68.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/7d17dd298cee7eb115ba4f1cc99dab9052a6ab68.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/8a30fb08e9237b79d5eb65912564d6bc913eae22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/8a30fb08e9237b79d5eb65912564d6bc913eae22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/8e0300c115bc82b5e1f69918ed6119de67914ce7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/8e0300c115bc82b5e1f69918ed6119de67914ce7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/8e70d24fcb9039da99271740b378f32b732a36b5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/8e70d24fcb9039da99271740b378f32b732a36b5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/8e80aa0d0496d6a30d3b314ef4d45c7d8453f484.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/8e80aa0d0496d6a30d3b314ef4d45c7d8453f484.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/93593443bc8e71fb2443c91937754f5882e4c56c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/93593443bc8e71fb2443c91937754f5882e4c56c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/9caf91ae18218e232fc12908089138016b5c5f97.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/9caf91ae18218e232fc12908089138016b5c5f97.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/9ce19f37a9b9ccd56c49f4b18ad44fd2c5e6d41f.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/9ce19f37a9b9ccd56c49f4b18ad44fd2c5e6d41f.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/a2a4cbbe12871f333cba809b0d927ffcc05df41b.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/a2a4cbbe12871f333cba809b0d927ffcc05df41b.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/a5a2d1a826c5136228d49a12fe7111784b3159c6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/a5a2d1a826c5136228d49a12fe7111784b3159c6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/a7a9af8fe4a3017bfaf913e87e1bdb7ef52b909c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/a7a9af8fe4a3017bfaf913e87e1bdb7ef52b909c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/aa31d6c47fa99b5aeb69e30eb12b4bed23760f65.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/aa31d6c47fa99b5aeb69e30eb12b4bed23760f65.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/ad1a2621ad3515b6231695565743d999e6e772bd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/ad1a2621ad3515b6231695565743d999e6e772bd.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/ae254887e109fd1623b2f0a1efde01d66c1911ee.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/ae254887e109fd1623b2f0a1efde01d66c1911ee.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/b1bc760340f381eb2e32055c8f075988daf32a37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/b1bc760340f381eb2e32055c8f075988daf32a37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/b4b6b12f50175c9b088b38fed9db8fdda157b4ee.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/b4b6b12f50175c9b088b38fed9db8fdda157b4ee.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/b6de14a19107abc513b26250447d126480ddee75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/b6de14a19107abc513b26250447d126480ddee75.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/b7fcd1d682c6bd4785e8c4775d5e2e2f92e16278.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/b7fcd1d682c6bd4785e8c4775d5e2e2f92e16278.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/b9ff9fdde0edfe036a3a0bcbabbd91072138f206.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/b9ff9fdde0edfe036a3a0bcbabbd91072138f206.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/bc1329fa34053cedd94281323562d370ddef23de.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/bc1329fa34053cedd94281323562d370ddef23de.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/be1d0a11b68dbfd1fac4faa296addad52d7c7a20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/be1d0a11b68dbfd1fac4faa296addad52d7c7a20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/be4059f7eba28568eecbeea98aed2865ca370c77.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/be4059f7eba28568eecbeea98aed2865ca370c77.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/c573a284fda65cd82157dab793f31f2c30e192fb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/c573a284fda65cd82157dab793f31f2c30e192fb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/c7ac20c3f69896cbc15f94bfafff5119dd6647c5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/c7ac20c3f69896cbc15f94bfafff5119dd6647c5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/c84d7c8487890f9a98e36f8947a4dcb13a805205.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/c84d7c8487890f9a98e36f8947a4dcb13a805205.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/ca8bebf3617920cf074df4c3cf477a043591c15c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/ca8bebf3617920cf074df4c3cf477a043591c15c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/cc139562da59bc4f77f3fa0aec6af96b2b7780f6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/cc139562da59bc4f77f3fa0aec6af96b2b7780f6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/cce4874ab5947e4fca14872a776c1ff12f811ac6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/cce4874ab5947e4fca14872a776c1ff12f811ac6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/de525607339c0566993b80335363785f2e8f47fc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/de525607339c0566993b80335363785f2e8f47fc.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/efa9d28cae7329291bae990e837d2d4ccf394674.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/efa9d28cae7329291bae990e837d2d4ccf394674.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/f1f6eba0b690084c3f96c0bc4fa5618fe583bb84.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/f1f6eba0b690084c3f96c0bc4fa5618fe583bb84.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/fce55fc0df928687b02c53a499f73acf5d3da2e0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/fce55fc0df928687b02c53a499f73acf5d3da2e0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArticleSpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/spiders/jianshu.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/spiders/jianshu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/utils/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/utils/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +224,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -183,6 +244,16 @@
           <url>file://$PROJECT_DIR$/ArticleSpider/spiders/infoq.py</url>
           <line>12</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/pipelines.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/spiders/jianshu.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
