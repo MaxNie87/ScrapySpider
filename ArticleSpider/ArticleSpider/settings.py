@@ -81,8 +81,8 @@ IMAGES_URLS_FIELD = "front_image_url"
 IMAGES_STORE = os.path.join(project_dir, "images")
 
 
-MYSQL_HOST = '192.168.17.77'
-MYSQL_DBNAME = 'spider'
+MYSQL_HOST = '192.168.1.77'
+MYSQL_DBNAME = 'scrapyspider'
 MYSQL_USER = 'root'
 MYSQL_PASSWD = '1234ABcd'
 

@@ -65,7 +65,6 @@ class MysqlTwisted(object):
         query = self.dbpool.runInteraction(self.do_insert, item)
 
         query.addErrback(self.on_error, spider)
-        return item
 
     def do_insert(self, cursor, item):
         insert_sql = """
