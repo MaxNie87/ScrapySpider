@@ -1,0 +1,4 @@
+# Ignore Images
+ArticleSpider/ArticleSpider/images/*
+*.jpg
+*.pyc

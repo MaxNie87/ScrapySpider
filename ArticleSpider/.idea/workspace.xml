@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="51b9dbf4-48de-44ba-8853-6dd1d952bfab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArticleSpider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/1c3cea3a1b12d298951f2e60f85b959316b6d0fb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/1c3cea3a1b12d298951f2e60f85b959316b6d0fb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/1f4d94a1afcfa88261b2773c22da882fbc3f607c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/1f4d94a1afcfa88261b2773c22da882fbc3f607c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/7fbbd4c76e2e1745d6027667c7053c5ee2723fd1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/7fbbd4c76e2e1745d6027667c7053c5ee2723fd1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/e2273c1169d21b5bfe0bc540d9f41c6a61bd9a4f.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/e2273c1169d21b5bfe0bc540d9f41c6a61bd9a4f.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticleSpider/images/full/e8363353780b3e3399c34df163841202eab51662.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/images/full/e8363353780b3e3399c34df163841202eab51662.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArticleSpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -165,9 +169,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -185,16 +187,6 @@
           <url>file://$PROJECT_DIR$/ArticleSpider/spiders/infoq.py</url>
           <line>12</line>
           <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ArticleSpider/pipelines.py</url>
-          <line>73</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ArticleSpider/pipelines.py</url>
-          <line>69</line>
-          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
