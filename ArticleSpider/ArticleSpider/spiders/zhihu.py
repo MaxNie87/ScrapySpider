@@ -34,7 +34,7 @@ class ZhihuSpider(scrapy.Spider):
 
         result=input()
 
-        yield scrapy.Request(
+        yield scrapy.FormRequest(
             url = self.captcha_url,
             callback=self.parse_post_captcha,
             formdata={
@@ -44,7 +44,7 @@ class ZhihuSpider(scrapy.Spider):
 
     def parse_post_captcha(self, response):
 
-        result = json.load(response.text).get("success", '')
+        result = json.loads(response.text).get("success", '')
         if result:
             post_data={
                 'username':'17317925592',
@@ -56,3 +56,6 @@ class ZhihuSpider(scrapy.Spider):
                 formdata=post_data,
                 callback=self.parse_login
             )
+
+    def parse_login(self, response):
+        print(response.text)
