@@ -10,6 +10,7 @@ import json
 # from scrapy.pipelines.images import ImagesPipeline
 import MySQLdb
 import MySQLdb.cursors
+# import PyMySQL
 
 from ArticleSpider import settings
 
