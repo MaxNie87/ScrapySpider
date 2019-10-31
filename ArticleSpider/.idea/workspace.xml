@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51b9dbf4-48de-44ba-8853-6dd1d952bfab" name="Default Changelist" comment="Set MYSQL account information in settings.py.">
-      <change beforePath="$PROJECT_DIR$/.idea/ArticleSpider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ArticleSpider.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArticleSpider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArticleSpider/spiders/github.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleSpider/spiders/github.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
